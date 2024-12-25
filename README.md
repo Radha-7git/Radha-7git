@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?t=st=1735096188~exp=1735099788~hmac=8d9d14fa586834d9e652f95a67313d4c118fa7c9417e24d9f89f7bf7d9e61667&w=4000&h=500)
 <h1 align="center">Hi 👋, I'm RADHA KRISHNAN</h1>
 <h3 align="center">Passionate Learner | Aspiring Developer | Exploring Code & Creativity</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
