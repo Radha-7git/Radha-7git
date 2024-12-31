@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RADHA KRISHNAN</h1>
 <h3 align="center">Passionate Learner | Aspiring Developer | Exploring Code & Creativity</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+
 - 🌱 I’m currently learning **JavaScript Advanced, Sass**
 
 - 💬 Ask me about **HTML CSS JavaScript**
