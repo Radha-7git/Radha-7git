@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm RADHA KRISHNAN</h1>
 <h3 align="center">Passionate Learner | Aspiring Developer | Exploring Code & Creativity</h3>
 
-- 🌱 I’m currently learning **JavaScript, Sass**
+-  I’m currently learning **JavaScript, Sass**
 
-- 💬 Ask me about **HTML CSS JavaScript**
+-  Ask me about **HTML CSS JavaScript**
 
-- 📫 How to reach me **radhakrishnanof475@gmail.com**
+-  How to reach me **radhakrishnanof475@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/radha-7git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="radha-7git" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/radha krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radha krishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/7743rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7743rk" height="30" width="40" /></a>
 </p>
 
