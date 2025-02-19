@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm RADHA KRISHNAN</h1>
 <h3 align="center">Passionate Learner | Aspiring Developer | Exploring Code & Creativity</h3>
 
--  I’m currently learning **JavaScript, Sass**
-
--  Ask me about **HTML CSS JavaScript**
-
 -  How to reach me **radhakrishnanof475@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
